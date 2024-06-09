@@ -7,3 +7,4 @@ pytz
 tzwhere
 folium
 streamlit_folium
+timezonefinder
